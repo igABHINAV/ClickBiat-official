@@ -1,14 +1,10 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build":"npm i"
   },
   "keywords": [],
-  "author": "ABHINAV KUMAR",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
